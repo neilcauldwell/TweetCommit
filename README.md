@@ -1,4 +1,6 @@
 TweetCommit
 ===========
 
-The TweetCommit repository. This is for testing out GitHub's Twitter Service Hooks.
+The TweetCommit repository.
+
+This project is being used to test GitHub's Twitter Service Hooks.
