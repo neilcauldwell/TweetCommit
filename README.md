@@ -1,4 +1,4 @@
 TweetCommit
 ===========
 
-The TweetCommit repo.
+The TweetCommit repository.
